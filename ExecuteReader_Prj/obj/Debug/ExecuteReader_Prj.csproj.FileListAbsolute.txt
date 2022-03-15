@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteReader_Prj\bin\Debug\ExecuteReader_Prj.exe.config
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteReader_Prj\bin\Debug\ExecuteReader_Prj.exe
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteReader_Prj\bin\Debug\ExecuteReader_Prj.pdb
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteReader_Prj\obj\Debug\ExecuteReader_Prj.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteReader_Prj\obj\Debug\ExecuteReader_Prj.Form1.resources
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteReader_Prj\obj\Debug\ExecuteReader_Prj.Properties.Resources.resources
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteReader_Prj\obj\Debug\ExecuteReader_Prj.csproj.GenerateResource.cache
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteReader_Prj\obj\Debug\ExecuteReader_Prj.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteReader_Prj\obj\Debug\ExecuteReader_Prj.exe
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteReader_Prj\obj\Debug\ExecuteReader_Prj.pdb

@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\VeritabaniIslemleri\NKatmaliMimari\bin\Debug\NKatmaliMimari.exe.config
+C:\Users\1\source\repos\VeritabaniIslemleri\NKatmaliMimari\bin\Debug\NKatmaliMimari.exe
+C:\Users\1\source\repos\VeritabaniIslemleri\NKatmaliMimari\bin\Debug\NKatmaliMimari.pdb
+C:\Users\1\source\repos\VeritabaniIslemleri\NKatmaliMimari\obj\Debug\NKatmaliMimari.Properties.Resources.resources
+C:\Users\1\source\repos\VeritabaniIslemleri\NKatmaliMimari\obj\Debug\NKatmaliMimari.csproj.GenerateResource.cache
+C:\Users\1\source\repos\VeritabaniIslemleri\NKatmaliMimari\obj\Debug\NKatmaliMimari.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\VeritabaniIslemleri\NKatmaliMimari\obj\Debug\NKatmaliMimari.exe
+C:\Users\1\source\repos\VeritabaniIslemleri\NKatmaliMimari\obj\Debug\NKatmaliMimari.pdb
+C:\Users\1\source\repos\VeritabaniIslemleri\NKatmaliMimari\obj\Debug\NKatmaliMimari.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\VeritabaniIslemleri\NKatmaliMimari\obj\Debug\NKatmaliMimari.Form1.resources

@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\VeritabaniIslemleri\SqlConnection\bin\Debug\SqlConnection.exe.config
+C:\Users\1\source\repos\VeritabaniIslemleri\SqlConnection\bin\Debug\SqlConnection.exe
+C:\Users\1\source\repos\VeritabaniIslemleri\SqlConnection\bin\Debug\SqlConnection.pdb
+C:\Users\1\source\repos\VeritabaniIslemleri\SqlConnection\obj\Debug\SqlConnection.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\VeritabaniIslemleri\SqlConnection\obj\Debug\SqlConnection.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\VeritabaniIslemleri\SqlConnection\obj\Debug\SqlConnection.exe
+C:\Users\1\source\repos\VeritabaniIslemleri\SqlConnection\obj\Debug\SqlConnection.pdb

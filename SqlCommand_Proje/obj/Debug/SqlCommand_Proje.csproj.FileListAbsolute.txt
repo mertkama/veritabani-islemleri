@@ -1,0 +1,10 @@
+C:\Users\1\Desktop\VeritabaniIslemleri\SqlCommand_Proje\bin\Debug\SqlCommand_Proje.exe.config
+C:\Users\1\Desktop\VeritabaniIslemleri\SqlCommand_Proje\bin\Debug\SqlCommand_Proje.exe
+C:\Users\1\Desktop\VeritabaniIslemleri\SqlCommand_Proje\bin\Debug\SqlCommand_Proje.pdb
+C:\Users\1\Desktop\VeritabaniIslemleri\SqlCommand_Proje\obj\Debug\SqlCommand_Proje.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\VeritabaniIslemleri\SqlCommand_Proje\obj\Debug\SqlCommand_Proje.Form1.resources
+C:\Users\1\Desktop\VeritabaniIslemleri\SqlCommand_Proje\obj\Debug\SqlCommand_Proje.Properties.Resources.resources
+C:\Users\1\Desktop\VeritabaniIslemleri\SqlCommand_Proje\obj\Debug\SqlCommand_Proje.csproj.GenerateResource.cache
+C:\Users\1\Desktop\VeritabaniIslemleri\SqlCommand_Proje\obj\Debug\SqlCommand_Proje.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\VeritabaniIslemleri\SqlCommand_Proje\obj\Debug\SqlCommand_Proje.exe
+C:\Users\1\Desktop\VeritabaniIslemleri\SqlCommand_Proje\obj\Debug\SqlCommand_Proje.pdb

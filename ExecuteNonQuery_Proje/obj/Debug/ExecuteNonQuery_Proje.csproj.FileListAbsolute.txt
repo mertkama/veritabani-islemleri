@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteNonQuery_Proje\bin\Debug\ExecuteNonQuery_Proje.exe.config
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteNonQuery_Proje\bin\Debug\ExecuteNonQuery_Proje.exe
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteNonQuery_Proje\bin\Debug\ExecuteNonQuery_Proje.pdb
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteNonQuery_Proje\obj\Debug\ExecuteNonQuery_Proje.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteNonQuery_Proje\obj\Debug\ExecuteNonQuery_Proje.Form1.resources
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteNonQuery_Proje\obj\Debug\ExecuteNonQuery_Proje.Properties.Resources.resources
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteNonQuery_Proje\obj\Debug\ExecuteNonQuery_Proje.csproj.GenerateResource.cache
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteNonQuery_Proje\obj\Debug\ExecuteNonQuery_Proje.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteNonQuery_Proje\obj\Debug\ExecuteNonQuery_Proje.exe
+C:\Users\1\source\repos\VeritabaniIslemleri\ExecuteNonQuery_Proje\obj\Debug\ExecuteNonQuery_Proje.pdb

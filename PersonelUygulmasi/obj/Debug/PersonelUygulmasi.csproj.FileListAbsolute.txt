@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\bin\Debug\PersonelUygulmasi.exe.config
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\bin\Debug\PersonelUygulmasi.exe
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\bin\Debug\PersonelUygulmasi.pdb
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\obj\Debug\PersonelUygulmasi.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\obj\Debug\PersonelUygulmasi.AnaForm.resources
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\obj\Debug\PersonelUygulmasi.Form1.resources
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\obj\Debug\PersonelUygulmasi.Properties.Resources.resources
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\obj\Debug\PersonelUygulmasi.csproj.GenerateResource.cache
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\obj\Debug\PersonelUygulmasi.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\obj\Debug\PersonelUygulmasi.exe
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\obj\Debug\PersonelUygulmasi.pdb
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\bin\Debug\FakeData.dll
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\bin\Debug\FakeData.pdb
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\Desktop\VeritabaniIslemleri\PersonelUygulmasi\obj\Debug\PersonelUygulmasi.csproj.CopyComplete

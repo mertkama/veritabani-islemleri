@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\VeritabaniIslemleri\BaglantiBilgisi\bin\Debug\BaglantiBilgisi.exe.config
+C:\Users\1\source\repos\VeritabaniIslemleri\BaglantiBilgisi\bin\Debug\BaglantiBilgisi.exe
+C:\Users\1\source\repos\VeritabaniIslemleri\BaglantiBilgisi\bin\Debug\BaglantiBilgisi.pdb
+C:\Users\1\source\repos\VeritabaniIslemleri\BaglantiBilgisi\obj\Debug\BaglantiBilgisi.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\VeritabaniIslemleri\BaglantiBilgisi\obj\Debug\BaglantiBilgisi.Form1.resources
+C:\Users\1\source\repos\VeritabaniIslemleri\BaglantiBilgisi\obj\Debug\BaglantiBilgisi.Properties.Resources.resources
+C:\Users\1\source\repos\VeritabaniIslemleri\BaglantiBilgisi\obj\Debug\BaglantiBilgisi.csproj.GenerateResource.cache
+C:\Users\1\source\repos\VeritabaniIslemleri\BaglantiBilgisi\obj\Debug\BaglantiBilgisi.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\VeritabaniIslemleri\BaglantiBilgisi\obj\Debug\BaglantiBilgisi.exe
+C:\Users\1\source\repos\VeritabaniIslemleri\BaglantiBilgisi\obj\Debug\BaglantiBilgisi.pdb
